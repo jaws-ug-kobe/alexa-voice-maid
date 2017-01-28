@@ -1,0 +1,5 @@
+{
+  "dynamodb": ["maid_status"],
+  "polly": ["on"],
+  "s3": [{"name":"voice.maid.audio"}]
+}
